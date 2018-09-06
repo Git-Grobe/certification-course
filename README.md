@@ -1,3 +1,3 @@
 # certification-course
 
-my private backup of learning materials from consesys academy. 
+my private backup of learning materials from consensys academy. 
